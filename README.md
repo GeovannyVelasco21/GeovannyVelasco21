@@ -19,4 +19,4 @@ Contador Público con más de 10 años de experiencia en **auditoría interna, g
 
 ### Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/geovannyandres95/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/geovannyandres95)
